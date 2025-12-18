@@ -237,6 +237,10 @@ img {
   text-align: center;
 }
 
+.portfolio-text {
+  text-align: left;
+}
+
 .section-portfolio {
   padding: 120px 0;
 }
